@@ -1,7 +1,7 @@
-package com.ia.springaimcp.service;
+package com.ai.mcp.service;
 
-import com.ia.springaimcp.client.ChuckNorrisJokeClient;
-import com.ia.springaimcp.model.Joke;
+import com.ai.mcp.client.ChuckNorrisJokeClient;
+import com.ai.mcp.model.Joke;
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.stereotype.Service;
 

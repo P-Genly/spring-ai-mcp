@@ -1,4 +1,4 @@
-package com.ia.springaimcp.model;
+package com.ai.mcp.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

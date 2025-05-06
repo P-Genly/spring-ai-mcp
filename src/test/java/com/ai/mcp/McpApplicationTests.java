@@ -1,10 +1,10 @@
-package com.ia.springaimcp;
+package com.ai.mcp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAiMcpApplicationTests {
+class McpApplicationTests {
 
     @Test
     void contextLoads() {
