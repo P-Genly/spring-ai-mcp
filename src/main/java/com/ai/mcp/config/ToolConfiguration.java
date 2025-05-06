@@ -1,6 +1,6 @@
-package com.ia.springaimcp.config;
+package com.ai.mcp.config;
 
-import com.ia.springaimcp.service.JokeService;
+import com.ai.mcp.service.JokeService;
 import org.springframework.ai.tool.ToolCallback;
 import org.springframework.ai.tool.ToolCallbacks;
 import org.springframework.context.annotation.Bean;
