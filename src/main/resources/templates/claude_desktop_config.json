@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "chuck-jokes-mcp": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "/Users/<USER_NAME>/.m2/repository/com/ia/spring-ai-mcp/0.0.1-SNAPSHOT/spring-ai-mcp-0.0.1-SNAPSHOT.jar"
+      ]
+    }
+  }
+}
